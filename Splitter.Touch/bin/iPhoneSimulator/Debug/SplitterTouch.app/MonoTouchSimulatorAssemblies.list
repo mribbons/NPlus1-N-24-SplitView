@@ -1,0 +1,14 @@
+mscorlib.dll
+System.dll
+System.Core.dll
+Mono.Dynamic.Interpreter.dll
+System.Xml.dll
+Cirrious.CrossCore.dll
+System.Windows.dll
+Cirrious.MvvmCross.dll
+Cirrious.MvvmCross.Touch.dll
+Cirrious.CrossCore.Touch.dll
+Cirrious.MvvmCross.Binding.dll
+Cirrious.MvvmCross.Localization.dll
+Cirrious.MvvmCross.Binding.Touch.dll
+Splitter.Core.dll

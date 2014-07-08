@@ -1,0 +1,45 @@
+# Version: 7.2.5.5 (87026b6)
+# [first argument, ignore] # /Users/mike/Documents/customers/mp_mobile/NPlus1DaysOfMvvmCross/N-24-Split/Splitter.Touch/bin/iPhoneSimulator/Debug/mtouch.exe
+/Developer/MonoTouch/usr/bin/mtouch \
+	-sdkroot \
+	/Applications/Xcode.app/Contents/Developer \
+	--cache \
+	/Users/mike/Documents/customers/mp_mobile/NPlus1DaysOfMvvmCross/N-24-Split/Splitter.Touch/obj/iPhoneSimulator/Debug/mtouch-cache \
+	--nomanifest \
+	--nosign \
+	-sim \
+	/Users/mike/Documents/customers/mp_mobile/NPlus1DaysOfMvvmCross/N-24-Split/Splitter.Touch/bin/iPhoneSimulator/Debug/SplitterTouch.app \
+	-r \
+	/Users/mike/Documents/customers/mp_mobile/NPlus1DaysOfMvvmCross/N-24-Split/Splitter.Core/bin/Debug/Splitter.Core.dll \
+	-r \
+	/Users/mike/Documents/customers/mp_mobile/NPlus1DaysOfMvvmCross/N-24-Split/packages/MvvmCross.HotTuna.CrossCore.3.1.1-beta2/lib/MonoTouch/Cirrious.CrossCore.dll \
+	-r \
+	/Users/mike/Documents/customers/mp_mobile/NPlus1DaysOfMvvmCross/N-24-Split/packages/MvvmCross.HotTuna.CrossCore.3.1.1-beta2/lib/MonoTouch/Cirrious.CrossCore.Touch.dll \
+	-r \
+	/Users/mike/Documents/customers/mp_mobile/NPlus1DaysOfMvvmCross/N-24-Split/packages/MvvmCross.HotTuna.MvvmCrossLibraries.3.1.1-beta2/lib/MonoTouch/Cirrious.MvvmCross.dll \
+	-r \
+	/Users/mike/Documents/customers/mp_mobile/NPlus1DaysOfMvvmCross/N-24-Split/packages/MvvmCross.HotTuna.CrossCore.3.1.1-beta2/lib/MonoTouch/Cirrious.MvvmCross.Binding.dll \
+	-r \
+	/Users/mike/Documents/customers/mp_mobile/NPlus1DaysOfMvvmCross/N-24-Split/packages/MvvmCross.HotTuna.CrossCore.3.1.1-beta2/lib/MonoTouch/Cirrious.MvvmCross.Binding.Touch.dll \
+	-r \
+	/Users/mike/Documents/customers/mp_mobile/NPlus1DaysOfMvvmCross/N-24-Split/packages/MvvmCross.HotTuna.CrossCore.3.1.1-beta2/lib/MonoTouch/Cirrious.MvvmCross.Localization.dll \
+	-r \
+	/Users/mike/Documents/customers/mp_mobile/NPlus1DaysOfMvvmCross/N-24-Split/packages/MvvmCross.HotTuna.MvvmCrossLibraries.3.1.1-beta2/lib/MonoTouch/Cirrious.MvvmCross.Touch.dll \
+	-r \
+	/Developer/MonoTouch/usr/lib/mono/2.1/System.dll \
+	-r \
+	/Developer/MonoTouch/usr/lib/mono/2.1/System.Windows.dll \
+	-r \
+	/Developer/MonoTouch/usr/lib/mono/2.1/System.Xml.dll \
+	-r \
+	/Developer/MonoTouch/usr/lib/mono/2.1/System.Core.dll \
+	-r \
+	/Developer/MonoTouch/usr/lib/mono/2.1/monotouch.dll \
+	-debug \
+	-nolink \
+	-sdk \
+	7.1 \
+	-targetver \
+	3.2 \
+	--abi=i386 \
+	/Users/mike/Documents/customers/mp_mobile/NPlus1DaysOfMvvmCross/N-24-Split/Splitter.Touch/bin/iPhoneSimulator/Debug/SplitterTouch.exe \
